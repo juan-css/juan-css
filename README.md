@@ -1,6 +1,6 @@
 <div style="background-color: black">
     <p align="center">
-    <a href="https://github.com/matheusfvesco">
+    <a href="https://github.com/juan-css/">
     <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=500&pause=500&color=0A66C2&center=true&multiline=true&width=500&height=91&lines=Juan+Carlo,PhD;Research+and+Development;Bioinformatician+%7C+Health Data Scientist" alt="Typing SVG" />
     </a>
 </div>
@@ -43,7 +43,7 @@
   <a>
         <img alt="Postgresql URL" src="https://img.shields.io/badge/PostgreSQL-%23336791?labelColor=336791&style=flat-square&logo=postgresql&logoColor=%23ffffff" height="27">
   </a>
-  <a href="https://www.arduino.cc/">
+  <a>
     <img src="https://img.shields.io/badge/Flask-C25758?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="27"/>
   </a>
 
@@ -53,7 +53,7 @@
 <h2 class="section-heading">🌐 Connect with Me</h2>
 <p>Feel free to connect with me on LinkedIn. I'm always open to collaborating on projects related to bioinformatics, epidemiology, and health data analysis!</p>
 <div align="center">
-  <a href="https://www.linkedin.com/in/juancarlossilva">
+  <a href="https://www.linkedin.com/in/juan-carlo-s-silva/">
     <img src="https://img.shields.io/badge/juan_carlo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Juan Carlo"/>
   </a>
 </div>
