@@ -1,9 +1,3 @@
-<div style="background-color: black">
-    <p align="center">
-    <a href="https://github.com/juan-css/">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&duration=500&pause=500&color=0A66C2&center=true&multiline=true&width=500&height=91&lines=Juan+Carlo,PhD;Research+and+Development;Bioinformatician+%7C+Health Data Scientist" alt="Typing SVG" />
-    </a>
-</div>
 <div>
     <h2>🚀 About Me</h2>
     <p>My experience includes the development and application of computational methodologies for analyzing clinical, demographic, and sequencing data, using advanced machine learning techniques and inferential statistics. I apply these skills to identify complex patterns that associate comorbidities with the progression of infectious diseases, as well as to data visualization and application development. </p>
