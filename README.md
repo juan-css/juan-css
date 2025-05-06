@@ -1,9 +1,9 @@
 <div>
-    <h2>🚀 About Me</h2>
+    <h2>About Me</h2>
     <p>My experience includes the development and application of computational methodologies for analyzing clinical, demographic, and sequencing data, using advanced machine learning techniques and inferential statistics. I apply these skills to identify complex patterns that associate comorbidities with the progression of infectious diseases, as well as to data visualization and application development. </p>
 </div>
 
-<h2 class="section-heading">💻 Programming Languages</h2>
+<h2 class="section-heading">Programming Languages</h2>
 <p>Here are some of the programming languages I use in my research and tool development:</p>
 <div align="center">
   <!-- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> -->
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </div>
 
-<h2 class="section-heading">💻 Frameworks and Tools</h2>
+<h2 class="section-heading">Frameworks and Tools</h2>
 <div align="center">
   <a href="https://fastapi.tiangolo.com/">
         <img alt="Fastapi URL" src="https://img.shields.io/badge/FastAPI-%23019587?labelColor=019587&style=flat-square&logo=fastapi&logoColor=%23ffffff" height="27">
